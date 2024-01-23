@@ -403,7 +403,7 @@ body:not(.user-is-tabbing) a:focus {
 /* --------------------------------------- */
 
 .header {
-  background: linear-gradient(90deg, #00000000, #002F6Fcc), url("./images/headeer.jpg");
+  background: linear-gradient(90deg, #00000000, #002F6Fcc), url("assets/images/headeer.jpg");
   height: 100vh;
   background-size: cover;
   color: ghostwhite;

@@ -1,0 +1,4 @@
+[[headers]]
+for = "/assets/resume/resume.pdf"
+[headers.values]
+Content-Type = "application/pdf"
